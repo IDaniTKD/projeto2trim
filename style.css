@@ -2,11 +2,11 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
+    --primary-color: #970000;
+    --secondary-color: #c04949;
+    --text-color: #000000;
     --background-color: #F2E3D5;
-    --button-hover: #012E40;
+    --button-hover: #e4a111;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
