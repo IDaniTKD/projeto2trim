@@ -37,7 +37,7 @@ p {
 }
 
 img {
-    max-width: 35%;
+    max-width: 30%;
 }
 /*Cabeçalho */
 header {
@@ -130,4 +130,22 @@ ul {
     .cta-button {
         width: 100%;
     }
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: var(--primary-color);
+  color: white;
+}
+
+footer .cta-footer {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer .cta-footer:hover {
+  text-decoration: underline;
 }
